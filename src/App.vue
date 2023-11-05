@@ -16,11 +16,10 @@ export default {
 
 <style>
 #app {
-	font-family: Avenir, Helvetica, Arial, sans-serif;
-	-webkit-font-smoothing: antialiased;
-	-moz-osx-font-smoothing: grayscale;
-	text-align: center;
-	color: #2c3e50;
-	margin-top: 60px;
+	@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:wght@400;700&display=swap');
+	background: #455a64 0 0 repeat;
+	color: #3c6;
+	font: 1.25rem 'Victor Mono', monospace;
+	padding: 0 1.25rem 6.25rem;
 }
 </style>
