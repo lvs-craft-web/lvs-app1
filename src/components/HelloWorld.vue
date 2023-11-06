@@ -28,6 +28,6 @@ li {
 	margin: 0 0.625rem;
 }
 a {
-	color: #42b983;
+	color: #3c6;
 }
 </style>
